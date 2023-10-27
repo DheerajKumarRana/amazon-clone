@@ -1,2 +1,2 @@
 # The-Amazone-clone
-In this file we are practicing our HTML And CSS concepts.
+In this file we are practising our HTML And CSS concepts.
