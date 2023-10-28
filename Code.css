@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial ;
+    color:white;
+}
+.border{
+  border: 0.5px solid transparent;
+}
+.border:hover{
+    border: 0.5px solid white;
+}
+
+.navbar{
+    height: 60px;
+    background-color:  #131A22;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+    justify-content: space-evenly;
+    
+}
+.navlogo{
+    height: 50px;
+    width: 113px; 
+   background-image: url(amazon_logo.png);
+   background-size: cover; 
+
+}
+
+
+
+.navaddress{
+    height: 50px;
+    width:  90px;  
+}
+
+.navsubadd{
+    height: 50px;
+    width: 88px;  
+    position:absolute;   
+}
+
+.navloc{
+    height: 18px;
+    width: 15px;  
+    position: absolute;  
+    left: 2px;
+    top: 25px;
+}
+    
+.navadd1{
+    height: 14px;
+    width:  52px;  
+    color: lightgrey;
+    font-size: 12px; 
+    position: absolute; 
+    left:19px;
+    top:13px;
+   
+}
+
+
+.navadd2{
+    height:  16px;
+    width:  52px;  
+    font-size: 14px; 
+    position: absolute;  
+    left: 18px ;
+    top: 25px;
+    font-weight: 800;
+}
+.navsearchbar{
+    height: 50px;
+    width: 450px;
+    Display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navscroll{
+    height: 38px;
+    width: 45px;
+    color:black;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 5px;
+    background-color: lightgray;
+    
+
+}
+.navsearcharea{
+    height: 35.5px;
+    width: 100%;
+    color:black;
+    border:none;
+    font-size: 15px;
+
+}
+.navsearchicon{
+    height: 38px;
+    width: 45px;
+    background-color: #febD69;
+    border-radius: 0px 5px 5px 0px;
+  
+}
+.subnavicon{
+    height: 30px;
+    width: 45px;
+    padding-top: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+
+#glass{
+    color:black;
+}
+
+.navrightside{
+    height: 50px;
+    width: 345px;
+    display:flex;
+    justify-content: center;  
+    justify-content:space-evenly ;
+}
+
+.navrightsidebox1{
+    height: 50px;
+    width: 73px;
+    
+}
+
+.sub1{
+    height: 33px;
+    width: 60.5px;
+   
+    position:relative;
+    left:8px;
+    top:10px;
+   
+}
+.flag{
+    height: 16px;
+    width: 20px; 
+    /* background-color:red; */
+   background-image: url(flag4.jpg); 
+   background-size: covers;
+   position: absolute;  
+   bottom:0px;
+  }
+  #lan{
+    height: 15px;
+    width: 18px;
+    font-size: 14px;
+    font-weight: 800px;
+    position: absolute;
+    bottom:0px;
+    left:23px;
+
+  }
+ #language{
+    height: 8px;
+    width: 13px;
+    background-color: #131A22 ;
+    border:none;
+    position: absolute;
+    bottom:2px;
+    right:0px;
+ }
+
+ .navrightsidebox2{
+    height: 50px;
+    width: 131px;
+ }
+
+ #S1{
+    position:relative;
+    top:10px;
+    left:10px;
+    color:white;}
+ #S2{
+        position:relative;
+        top:10px;
+        left:10px;
+        color:white;
+    }
+    #SG{
+        height: 8px;
+    width: 13px;
+    background-color: #131A22 ;
+    border:none;
+    position:relative;
+    left:115px;
+    bottom:5px;
+    }
+ 
+ 
